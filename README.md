@@ -23,6 +23,6 @@ I'm a full stack developer in the learning process.
 
 ## Contact me
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jotapedev/)](https://www.linkedin.com/in/jotapedev/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedroduarte.s2001@gmail.com)](mailto:joaopedroduarte.s2001@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-JoãoPedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jotapedev/)](https://www.linkedin.com/in/jotapedev/)
+[![Gmail Badge](https://img.shields.io/badge/-joaopedroduarte.s2001@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopedroduarte.s2001@gmail.com)](mailto:joaopedroduarte.s2001@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/MKGJP)
