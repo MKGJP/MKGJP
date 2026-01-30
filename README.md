@@ -1,40 +1,46 @@
 # João Pedro Duarte de Souza  
 ### Blue Team | SOC & CSIRT | Cybersecurity Operations
 
-Cybersecurity-focused Computer Science student with a clear focus on **Blue Team operations**, **SOC monitoring**, and **CSIRT activities**.  
-My background includes offensive security fundamentals, which I use to better understand attacker behavior and improve defensive detection and response.
+Cybersecurity-focused Computer Science student with a clear professional direction toward **Blue Team operations**, **SOC monitoring**, and **CSIRT activities**.
 
-I am particularly interested in **incident response, security monitoring, and operational cybersecurity**, working with structured processes and real-world scenarios.
+My background combines strong **defensive security fundamentals**, vendor-oriented cybersecurity training, and **offensive security knowledge applied strictly to improve detection, response, and resilience**.
 
 ---
 
 ## 🏆 Certifications & Badges
 
 <p align="left">
-  <img src="https://images.credly.com/size/110x110/images/2a4c90c7-6a38-4d6f-8bb6-ef5c8e7a9c34.png" alt="Fortinet Certified Associate Cybersecurity"/>
-  <img src="https://images.credly.com/size/110x110/images/7a3b0e89-5b6f-4d4a-8c8f-2e3e9a7c1f9d.png" alt="Fortinet Certified Fundamentals Cybersecurity"/>
-  <img src="https://images.credly.com/size/110x110/images/5bfa8c7b-3e91-4b36-9e5d-4c3c6a1f2e9b.png" alt="FortiGate 7.6 Operator"/>
-  <img src="https://images.credly.com/size/110x110/images/1f8c6d7a-3c2b-4e6a-9a7e-8f5b1d2c9e4a.png" alt="Cisco Introduction to Cybersecurity"/>
-  <img src="assets/badges/ibsec-pentester-associate.png" width="120" alt="IBSEC Pentester Associate"/>
+  <img src="assets/badges/fortinet-fca-cybersecurity.png" height="95" alt="Fortinet Certified Associate Cybersecurity" />
+  <img src="assets/badges/fortinet-fcf-cybersecurity.png" height="95" alt="Fortinet Certified Fundamentals Cybersecurity" />
+  <img src="assets/badges/fortinet-fortigate-7-6-operator.png" height="95" alt="FortiGate 7.6 Operator" />
+  <img src="assets/badges/fortinet-nse1-getting-started.png" height="95" alt="Fortinet NSE 1 Getting Started" />
+  <img src="assets/badges/fortinet-nse1-threat-landscape.png" height="95" alt="Fortinet NSE 1 Threat Landscape" />
+  <img src="assets/badges/fortinet-nse2-intro-cybersecurity.png" height="95" alt="Fortinet NSE 2 Introduction to Cybersecurity" />
+  <img src="assets/badges/cisco-introduction-cybersecurity.png" height="95" alt="Cisco Introduction to Cybersecurity" />
+  <img src="assets/badges/ibsec-pentester-associate.png" height="95" alt="IBSEC Pentester Associate" />
 </p>
 
-### Certifications (text for ATS & recruiters)  
+### Certifications & Professional Training (ATS-friendly)
 - Fortinet Certified Associate Cybersecurity  
 - Fortinet Certified Fundamentals Cybersecurity  
 - Fortinet FortiGate 7.6 Operator  
+- Fortinet NSE 1 – Getting Started in Cybersecurity  
+- Fortinet NSE 1 – Introduction to the Threat Landscape  
+- Fortinet NSE 2 – Technical Introduction to Cybersecurity  
 - Cisco Introduction to Cybersecurity  
-- Pentester Associate – IBSEC (Offensive fundamentals applied to defense)
-  
+- **Pentester Associate – IBSEC** *(offensive fundamentals applied to defense)*  
+- **Introduction to Pentesting – DESEC Security** *(hands-on offensive security foundations)*  
+
 ---
 
 ## 🛡️ Core Focus Areas (Blue Team)
 
 - Security Operations Center (SOC)
-- Incident detection and triage
-- Alert analysis and log correlation
-- Initial incident response and escalation
+- Security monitoring and alert triage
+- Log analysis and correlation
+- Incident identification and escalation
+- CSIRT workflows and incident response lifecycle
 - Threat awareness and attacker behavior analysis
-- Security processes and operational workflows
 
 ---
 
@@ -42,8 +48,8 @@ I am particularly interested in **incident response, security monitoring, and op
 
 ### Defensive Security
 - Incident response lifecycle (identify, contain, eradicate, recover)
-- SOC workflows and alert handling
-- Security monitoring concepts
+- SOC operational workflows
+- Detection-oriented security mindset
 
 ### Networking & Systems
 - TCP/IP and OSI model
@@ -52,16 +58,16 @@ I am particularly interested in **incident response, security monitoring, and op
 
 ### Tools & Exposure
 - SIEM concepts
-- Nmap (defensive usage)
 - Wireshark
+- Nmap (defensive usage)
 - Burp Suite (analysis perspective)
-- Security labs and simulations
+- Security labs and simulated environments
 
 ---
 
 ## 🚀 Career Objective
 
-To work as a **SOC Analyst / Blue Team Analyst**, contributing to **incident response, monitoring, and continuous security improvement**, with long-term growth toward **CSIRT operations** in mature security environments.
+To work as a **SOC Analyst / Blue Team Analyst**, contributing to **incident response, monitoring, and continuous security improvement**, with a long-term goal of operating within **CSIRT teams** in mature security environments.
 
 ---
 
